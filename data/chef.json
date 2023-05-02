@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "chefPicture":"https://i.ibb.co/sV8Dmr3/chef1.jpg",
+        "chefName": "Moniruzzaman",
+        "experience": 5, 
+        "recipesNum": 23,
+        "likes": 225,
+        "bio":"Since 2018, Moniruzzaman had challenged outrageous financial hardships since his move to Bangladesh. He amid a stretch to squeeze out a work, he was acquainted with Muslim Miah, a culinary specialist to the Nawabs of India. From Muslim Miah, he figured out how to cook. It was short colleague which uncovered to Moniruzzaman his shrouded, characteristic style and outrageous enthusiasm for cooking. While working in the Viqarun Nisa, he earned a name for his pleasantness, mild-mannered and tender nature. Now he is among the top 10 chefs in Bangladesh."
+    },
+    {
+        "id": 2,
+        "chefPicture":"https://i.ibb.co/1sHsKG9/chef2.jpg",
+        "chefName": "Saif Hasan",
+        "experience": 3, 
+        "recipesNum": 12,
+        "likes": 149,
+        "bio":"Saif is a masterful Chef from Pakistan who gives grand cooking formulas on Lazzat with Saif on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. For this work on Bangladeshi food he is places in the list of top 10 chefs in Bangladesh, although currently he is working in Pakistan.  Not just he educates the most delightful dishes from Bangladesh. He likewise entertains gatherings of people with prompt answers for cooking tragedies."
+    },
+    {
+        "id": 3,
+        "chefPicture":"https://i.ibb.co/WFzbW6p/chef3.jpg",
+        "chefName": "Tommy Miah",
+        "experience": 8, 
+        "recipesNum": 42,
+        "likes": 1020,
+        "bio":"Tommy has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tommy is places at sixth position among top 10 chefs in Bangladesh. Culinary specialist Tommy set up a kitchen extend in portability with his accomplice, which is serving nourishment for some enormous occasions. So he require an adaptable focal kitchen plan and loads of dispensable silverware supply. Concerning us, we have finished a wedding eatery extend in Romania years prior, that is likewise an abnormal state eatery with certain scale. Apart, for the venture Chef Tommy is going to do, their kitchen venture is higher necessity in adaptability and versatility, furthermore without within and outside environment impediment."
+    },
+    {
+        "id": 4,
+        "chefPicture":"https://i.ibb.co/cLQC8T6/chef4.jpg",
+        "chefName": "Nayeem Ashraf",
+        "experience": 10, 
+        "recipesNum": 32,
+        "likes": 994,
+        "bio":"Nayeem Ashraf  has been serving the town of Ringwood for more than 10 years, with his past eatery, where he was the accomplice and Chef for almost five years, before opening the Curry Garden. Curry Garden is best depicted as “A fun, vivacious Indian and Bangladeshi Restaurant, with customary qualities, serving amazing sustenance at sensible costs in a clean sprightly air, encompassed by ever supportive staff”. A significant part of the business comes through normal clients and suggestions. He is also included in Bangladeshi Top chefs list."
+    },
+    {
+        "id": 5,
+        "chefPicture":"https://i.ibb.co/f0yprkZ/chef5.jpg",
+        "chefName": "Kiran Jethwa",
+        "experience": 8, 
+        "recipesNum": 53,
+        "likes": 1322,
+        "bio":"Kiran Jethwa also known as “ The Fearless Chef” has travelled every part of the Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as assorted as it can be hazardous. Kiran Jethwa, is a worldwide “gastronaut” and has crossed the world looking for gutsy and cooking styles and societies. This time, the Fearless Chef, grows his radar and ventures to every part of the length of Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as various as it can be unsafe. Chef Kiran is the fifth most liked chef among popular top 10 chefs in Bangladesh."
+    },
+    {
+        "id": 6,
+        "chefPicture":"https://i.ibb.co/CKdYmBR/chef6.jpg",
+        "chefName": "Shakil Khan",
+        "experience": 2, 
+        "recipesNum": 12,
+        "likes": 300,
+        "bio":"Shakil Khan, 27. Originally from Bangladesh, After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010."
+    },
+    {
+        "id": 7,
+        "chefPicture":"https://i.ibb.co/DGbmFnC/chef7.jpg",
+        "chefName": "Ariful Islam",
+        "experience": 4, 
+        "recipesNum": 16,
+        "likes": 224,
+        "bio":"Ariful Islam, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh."
+    },
+    {
+        "id": 8,
+        "chefPicture":"https://i.ibb.co/dPLGTVz/chef8.jpg",
+        "chefName": "Shohidul Islam",
+        "experience": 2, 
+        "recipesNum": 10,
+        "likes": 119,
+        "bio": "Shohidul Islam, 24. Originally from Bangladesh, Shohidul came to Malaysia to study hospitality and got his first job as a buffet runner in a local hotel. Today, Shohidul has been working at Wizards for more than two years and is one of the restaurant’s top pasta makers. “I love this place, and I love my team. It’s my second home, here,” he says, adding that one day, after he’s gained enough experience, he plans to open his own restaurant."
+    }
+]
