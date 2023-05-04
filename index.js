@@ -21,9 +21,9 @@ app.get('/chef/:id', (req,res) =>{
     res.send(selectedChef)
 
 })
-app.get('/recipe/:id', (req,res) =>{
-    const id = req.params.id
-    const selectedRecipe = recipes.find(r=> r.rid === parseInt(id))
+app.get('/recipe/:rid', (req,res) =>{
+    const rid = req.params.rid
+    const selectedRecipe = recipes.find(r=> r.rid === parseInt(rid))
     res.send(selectedRecipe)
 
 })
