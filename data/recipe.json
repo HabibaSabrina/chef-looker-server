@@ -5,7 +5,8 @@
         "ingredients":["1 cups Basmati Rice", "1 tablespoon sliced almonds", "1/4 cup diced pine apple", "1 bay leaf", "1 cups sugar, pinch of salt", "3 tablespoons clarified butter(ghee)", "1 teaspoon saffron"],
         "cookingMethod":"Wash and soak the rice in water about 1 hour. Add 2 cups water, bay leaf, cinnamon, clove, bay leaf and food colour in rice; need to cover with cling wrap or lid with vent. So if you are using cling wrap, make 3-4 hole in it. Cook in microwave for 5 minutes and remove from microwave. Give a stir and rest for 5 minutes. Cook again for 5 minute in microwave and remove from microwave. Add rest of ingredients ( juice, zest, sugar, fruits, ghee and salt) and give a stir. Cook it for 4 minutes in microwave and take it out to stir. Cook it for 4 minutes, or 2 minutes + 2 minutes , or till water evoporate. Rest it 10 minutes and serve chilled Jorda / Zarda / Sweet rice garnish with kalojam / dry fruits / nuts.",
         "rating": 4,
-        "chef_id": 1
+        "chef_id": 1,
+        "img": "https://i.ibb.co/RBHC8gM/rec1.jpg"
     },
     { 
         "rid":201,
@@ -13,7 +14,8 @@
         "ingredients":["1 kg curry chicken", "1 and 1/2 cup sliced onion", "1 teaspoon mustard paste", "2 tomatoes", "black pepper powder", "1 teaspoon Turmeric powder", "2/3 cup oil", "Salt"],
         "cookingMethod":"When you are cutting tomato, remove seed and then dice it. Take a large pan or wok and heat oil:  Then add onion and fry 2-3 minutes until the onions are translucent and browned lightly. Then add coriander powder, cumin, turmeric and let fry for 1 minute. Add chicken pieces with garlic, ginger, black pepper and 1 teaspoon salt; fry for 15 minutes or until chicken becomes half cooked. If needed you can add 1 tablespoon water at a time to keep the sauce from burning/sticking to bottom of pan. Now add chopped tomatoes and cook for five or so minutes. Add mustard paste and capsicum and mix well. We want the sauce thick but not to burn, so if needed add 1 tablespoon water at a time. Stirring occasionally and when chicken is cooked and gravy thick enough, add chopped coriander leaf and sugar. Give a good stir and remove from heat.",
         "rating":4.5,
-        "chef_id":1
+        "chef_id":1,
+        "img": "https://i.ibb.co/HpKwSFL/rec2.jpg"
     },
     { 
         "rid":301,
@@ -21,7 +23,8 @@
         "ingredients":["400 grams mince meat", "6-8 tomatoes", "cardamom pods", "2 tbsp breadcrumbs", "1 tsp sugar", "1 and 1/2 cup sliced onion", "1 teaspoon mustard paste", "2/3 cup oil", "Salt"],
         "cookingMethod":"Use a sharp knife to slice the top off each tomato. Use a teaspoon to scoop out seeds and flesh and set aside. Mix mince, chopped onion, chopped green chilli, 1/2 tsp ginger paste, coriander leaf, bread crumbs and 1/2 tsp salt together; stuff each tomato and make kofta(meat ball) with rest mince mixture. Heat the oil and add bay leaf, cardamom, cinnamon stick. After a minute add onion paste and sauté 2 minutes. Add ginger, garlic, chilli powder and salt; cook till oil is separated. Add milk and bring to boiling point. Add sugar and pepper; give a stir and stuffed tomato and meat ball in the gravy. Cook in under closed lid 6-8 minutes or till you get your preferable gravy consistency.",
         "rating": 3,
-        "chef_id":1
+        "chef_id":1,
+        "img": "https://i.ibb.co/WBs9Wbw/rec3.jpg"
     },
     { 
         "rid":401,
@@ -29,7 +32,8 @@
         "ingredients":["Boneless beef half kg", "Onion paste 1 table spoon", "Chili powder 1 teaspoon or to taste", "Ginger paste half table spoon", "Garlic paste half table spoon", "Lemon juice 1 teaspoon", "Roasted cumin powder half teaspoon", "Black pepper crushed half teaspoon", "Greek yogurt 2 table spoons", "Saffron imitation", "Garam masala powder 1 teaspoon", "Green pawpaw with skin 2 teaspoons"],
         "cookingMethod":"Cut meat 1 inch thick slice, wash and drain water. Now using meat tenderizer hammer flatten the meat into thin slice(Quarter inch thick). Marinate meat with all ingredients except oil and keep it aside for at least 3 hours. After 3 hours add 2 tablespoon oil in meat and mix well. Then heat non stick pan or grill pan and when pan is ready, fry chop on medium heat. When one side is done, turn it and brush oil. When both sides are done, brush oil and remove from pan.",
         "rating": 5,
-        "chef_id":1
+        "chef_id":1,
+        "img": "https://i.ibb.co/NNfxXLq/rec4.jpg"
     },
     { 
         "rid":502,
@@ -37,7 +41,8 @@
         "ingredients":["500 grams boneless, fatless Beef", "1/2 cup yellow split pea", "2 Eggs", "2 teaspoon Ginger chopped", "2-3 clove Garlic", "6-8 pepper corn", "2-3 cloves", "1-2 tablespoon mint leaves (Chopped) (optional)", "Salt to your taste", "Oil for deep fry"],
         "cookingMethod":"Soak yellow split pea (chana /boter dal) in water for 4-5 hours or overnight. Cut into small pieces, clean and wash beef and chana dal. In a heavy bottom pan put beef, chana dal, ginger, garlic, bay leaf, cinnamon, pepper corn, clove, cardamom, salt and water. Cook until the chana dal and meat become well cooked and the water is completely dried up. You can use pressure cooker too for this. Fry onion in oil till it becomes light golden brown. Remove fried onion from oil. Grind all ingredients together except breadcrumbs and eggs to make smoothe paste. Put the paste in a mixing bowl. Add eggs and bread crumbs (for egg add little at a time, because we don’t want too soft dough which will hard to shape) and mix well. Make small round flattened balls from the mixture. You can even freeze kababs after giving the shape.",
         "rating":4.2,
-        "chef_id":2
+        "chef_id":2,
+        "img": "https://i.ibb.co/Fh55M6C/rec5.jpg"
     },
     { 
         "rid":602,
@@ -46,7 +51,9 @@
         "1/2 tbsp papaya paste", "1/2 tsp chilli powder", "1/2 tsp turmeric powder", "1/2 tsp coriander powder", "1/2 tsp nutmeg powder", "1/2 tsp mace powder", "1/2 tsp cardamom powder", "1/2 tsp cinnamon powder"],
         "cookingMethod":"After washing the leg of goat, use a sharp knife, make slits all over the leg to help the marinade seep into the meat and flavor it properly. This also helps get the meat to tenderize faster. Rinse well and pat dry. Marinate it with papaya paste, ginger paste, garlic paste, chilli powder, turmeric, coriander powder and 1 teaspoon salt for at least 2 hours to overnight or up to 24 hours in refrigerator. Heat the oil in a wide pan where leg could fit easily and fry onion till it starts to become light golden. Get aside the marination and add only leg with the fried onion. Fry each side 10 minutes and add marination, nut paste, milk and cook it on low heat under closed lid about 30 minutes. Add rest of ingredients (cardamom, cinnamon, mace, nutmeg, lemon juice, sugar and green chilli) and cook 10 more minutes without lid. In this stage you can preheat oven 180̊ C and bake the leg for 10-15 minutes to give nice colour(glaze it). Or keep cooking in pan with caution.",
         "rating":4.6,
-        "chef_id":2
+        "chef_id":2,
+        "img": "https://i.ibb.co/mvJxQ4s/rec6.jpg"
+
     },
     { 
         "rid":702,
@@ -54,7 +61,10 @@
         "ingredients":["1 cups plain flour", "1 tablespoon semolina", "1 teaspoon salt", "1  teaspoon Talmakhana", "Oil for deep fry", "200 grams dried peas", "1 cup diced large boiled potato", "1 tablespoon roasted cumin powder", "1 finely sliced medium size onion", "4 finely sliced green chillies", "Coriander leaves chopped", "Black salt", "Salt"],
         "cookingMethod":"First soak Talmakhana in water for 10-15 minutes, then dissolve salt with  Talmakhana’s water, flour and semolina. Knead properly and make smooth dough. Divide the dough 6 equal balls and roll ball into  flat thin bread. Now cut the bread with cookie cutter. Roll rest of balls same way. Place fry pan on medium heat. Don’t make oil too hot. Fry the fuska shells on medium heat otherwise the shells won’t be crisp. Soak peas over night and boil with salt. Drain peas and mix potato, roasted cumin, chillies, coriander, onion and black salt. Soak tamarind half hour with one cup water. Fry the chillies and crush them. Add crushed chillies, salt, cumin powder and sugar in tamarind water. Now make hole in fuska shells and insert peas stuffing there. Make 8-10 of them and serve in a plate along with tamarind water.",
         "rating":4.9,
-        "chef_id":2
+        "chef_id":2,
+        "img": "https://i.ibb.co/jbvZRhr/rec7.jpg"
+
+
     },
     { 
         "rid":802,
@@ -62,7 +72,9 @@
         "ingredients":["1 cup Pat Shak / Tender Jute Leaf", "1/2 cup Red lentil", "1/2 cup onion (sliced)", "Salt", "1/4 tsp Turmeric powder", "3-4 Green Chilli (chopped)( as per taste)", "Oil for deep frying"],
         "cookingMethod":"Wash and soak red lentil for hour and drain the water. Coarsely grind it. For jute leaves wash it, drain the water (I leave it in a strainer for couple of hour to get rid of any excess water) and chop coarsely. Mix all ingredients together and heat oil in a frying pan. Take a dollop of the mixture and add to the pan. On medium heat fry on both sides till golden brown. Enjoy Pat shaker Bora / Jute Leaf Fritter as a snack or with rice dal.",
         "rating":3,
-        "chef_id":2
+        "chef_id":2,
+        "img": "https://i.ibb.co/pXtSwg7/rec8.jpg"
+
     },
     { 
         "rid":903,
@@ -70,7 +82,10 @@
         "ingredients":["8 Potol/Pointed Gourd", "1/3 cup Oil", "1 tablespoon ghee", "2/3 cup Small prawns / chopped prawn(peeled)", "2/3 cup Potato (small diced)", "2 green chilli (paste)", "1 tablespoon poppy seed paste", "2 tablespoon coconut paste", "1/4 tsp turmeric powder", "1 tablespoon flour", "Salt to taste"],
         "cookingMethod":"Wash, scrape the potols skin and cut off the tips from both ends. Scoop out the seeds from one end without breaking/damaging the other end (I use the handle of a teaspoon to do this). Keep the seeds to use in stuffing (dont keep mature seeds, we only use soft seeds). Rub a little salt on the inside and outside of the potols and keep them aside for 10 minutes. Heat 1 tablespoon oil in a fry pan/ kadhai, when oil is ready, add diced potato, turmeric and ½ teaspoon salt. Fry for 3-4 minutes. Add coconut paste, poppy seed paste, green chili paste and saute for 2 minutes before adding prawn and potol seeds. Add prawn and seeds ; cook it till potato becomes tender. Let it cools down and coarsely mash it. Make batter thick with flour to seal potol. Add turmeric, coconut paste, chilli paste, poppy seed paste, 1 tablespoon water and salt. Cook till oil is separated. Add water and let it come to boil.",
         "rating":2.5,
-        "chef_id":3
+        "chef_id":3,
+        "img": "https://i.ibb.co/3fwccRS/rec9.jpg"
+
+
     },
     { 
         "rid":1003,
@@ -78,7 +93,9 @@
         "ingredients":["2 cups rice", "1 cup diced potato+ ¼ ts vinegar + 1/8 ts baking+ ¼ ts salt", "300 grams prawn(Peeled and deveined)", "2 tablespoon coconut milk or ½ cup milk", "1/2 cup finely chopped onion", "1/6 teaspoon turmeric powder", "1 teaspoon garlic paste", "1 teaspoon ginger paste", "3 green chillies", "1 cardamom pod", "2 cloves", "1 cinnamon sticks", "1 bay leaf", "1/2 teaspoon sugar", "1/3 cup oil"],
         "cookingMethod":"Wash rice and soak it in water for 20 minutes. Place rice into strainer and keep it aside. Wash the diced potato and pat dry it. Mix baking powder, salt and vinegar to it. Fry the potato in medium heat till it becomes crisp light golden brown. Remove fried potato pieces from oil and keep it aside. Mix turmeric, ¼ teaspoon salt with prawn and fry it in same oil for 2-3 minutes. Remove fried prawns from oil and keep it aside. In same oil add chopped onion and fry till it becomes transparent. Add rest of spices except green chillies, 1/2 ts salt and milk and cook it till oil is separated. Add rice and fry it for 2-3 minutes (stir occasionally). Add 3 cups of warm water, green chillies and sugar in it and cook it under closed lid 10 on medium high heat. Add prawn and give a stir. Cook (dum-e) on low heat and 5-6 minutes. Check salt and add fried potato pieces with poluo.",
         "rating":5,
-        "chef_id":3
+        "chef_id":3,
+        "img": "https://i.ibb.co/VxPvxqQ/rec10.jpg"
+
     },
     { 
         "rid":1103,
@@ -86,7 +103,9 @@
         "ingredients":["1 and half cup plain flour", "Water", "1 tbs sugar", "3/4 cup oil", "Half cup ghee / vegetable shortening", "4 tablespoon cornflour"],
         "cookingMethod":"Mix water and flour and make hard dough. Melt ghee / vegetable shortening and mix with oil and cornflour. Divide the dough into three and give donut shape to press thumb in the middle of it (check photo). And soak all dough in oil mixture. Now check video to stretch each dough, fold and soak it in oil. You need to stretch, fold and soak it in oil for 9-12 times (I rested the dough for 15 minutes after 4th and 7 th time of fold) Heat the oil and fry each dough at a time on medium heat. When you are frying Semai, give a shake of semai with spatula or fork which will spread or separate the semai thread. When semai is fried, remove it from oil and place on a paper towel. Let yummy homemade Lachcha Semai cools down before you put in airtight container or cook it in your favourite style.",
         "rating":4.3,
-        "chef_id":3
+        "chef_id":3,
+        "img": "https://i.ibb.co/RjnBHPV/rec11.jpg"
+
     },
     { 
         "rid":1203,
@@ -94,7 +113,9 @@
         "ingredients":["1 cup flour", "1/2 teaspoon salt", "3 tablespoon ghee / oil", "Lukewarm water", "2 cups desiccated coconut", "1 cup sugar", "1 teaspoon clarified butter / ghee", "1 canned evaporated milk", "1/2 teaspoon cardamom powder", "Saffron imitation", "Oil for deep fry"],
         "cookingMethod":"Cook till milk dries out and coconut mixture comes dry along together. Add sugar and cook till it mixes with stuffing. clarified butter and cardamom together till it comes dry along together. Mix flour and oil well. and disolve salt in lukewarm water. Mix folur mixture and salty water to make smooth hard dough. Cover it and let it set for at least 15 minutes. In meanwhile make syrup with sugar and water and keep it aside. We need lukewarm syrup. Take the dough and divide into 10-12 balls. Roll each ball into 3.5″ flat bread and place 1 tablespoon coconut stuffing on flat bread. Now fold like dumpling and seal it to follow pinch and twist method.Or you can use fork or cutter to seal dumpling/ pith. Repeat the process with rest of balls and coconut stuffing. Heat the pan with oil on medium and fry dumplings till those become golden brown. When all dumplings/ pitha are fried and add in lukewarm syrup. Coat dumplings/ pitha with syrup well.",
         "rating":3.8,
-        "chef_id":3
+        "chef_id":3,
+        "img": "https://i.ibb.co/sw4JN47/rec12.jpg"
+
     },
     { 
         "rid":1304,
@@ -102,7 +123,9 @@
         "ingredients":["400 grams Jackfruit seeds", "4 cardamom pods", "1/3 cup ghee", "1/2 cup sugar or to taste", "Nuts/dry fruit for garnish"],
         "cookingMethod":"Jackfruit seed has two layers of skin, first one white which easy to peel. After peeling white skin, seeds need to soak in water at least 2 hours before removing brown skin(soaking in water, make easier to remove skin) After removing two layers of skin wash it well and boil it with water. When seeds are cooked properly, remove from and strain water. Now make paste from it without using any water. Heat ghee in a pan and temper cardamom pods. Add sugar and jackfruit seed paste. Stir it about 2-3 minutes or until it forms like dough and starts leaving the pan. Remove from pan and garnish Jackfruit Seeds Fudge / Jackfruit Seeds Halwa / Kathaler Bichir Halua with Nuts/dry fruit.",
         "rating":3,
-        "chef_id":4
+        "chef_id":4,
+        "img": "https://i.ibb.co/wQdNdYM/rec13.jpg"
+
     },
     { 
         "rid":1404,
@@ -110,7 +133,9 @@
         "ingredients":["300 grams meat mince(keema) or boneless meat", "1 medium onion", "1 tomato", "2 green chillies", "1/2 teaspoon crusted black pepper", "1 teaspoon  ginger paste", "1 tablespoon chopped fresh coriander leaves/ mint leaves(optional)", "Salt to taste", "3 tablespoon onion paste", "1/2 cup milk or 3 tablespoons coconut milk", "1 teaspoon chilli powder", "1/4 teaspoon turmeric powder", "1/2 teaspoon coriander powder", "1 teaspoon ginger paste", "1 teaspoon garlic paste"],
         "cookingMethod":"If you are using boneless meat, put all kofta ingredients in food processor and mince it. If you are using mince meat , chop rest of ingredients and mix well. Heat the pan with oil and add cinnamon stick, cardamom and bay leaf .after half minute add rest of curry ingredient except milk. Cook it till oil is separated. Add milk and bring it to boiling point; in the meanwhile make kofta (meat ball) and add in gravy. Add water if needed. Cook under closed lid about 1o-12minutes under closed lid or till kofta(meat ball) are cooked. Check the salt and remove from heat. Serve hot Kofta curry /spicy meat ball curry with rice or polau.",
         "rating":4,
-        "chef_id":4
+        "chef_id":4,
+        "img": "https://i.ibb.co/Kj0gjYD/rec14.jpg"
+
     },
     { 
         "rid":1504,
@@ -118,7 +143,9 @@
         "ingredients":["1 Mutton leg(about 1.8 kg)", "1 and 1/2 cups sliced onion", "1/3 cup yogurt(tok doi)", "1/2 cup milk", "1/2 tbsp ginger paste", "1/2 tbsp garlic paste", "2 tbsp papaya paste", "1 tsp chilli powder", "1/4 tsp turmeric powder", "1/2 tsp coriander powder", "1/4 tsp nutmeg powder", "1 tbsp Lemon juice", "1 tso sugar (optional)", "2 tbsp chopped green chilli", "3/4 cup oil or ghee", "Salt to taste"],
         "cookingMethod":"Heat the oil in a wide pan where leg could fit easily and fry onion till it starts to become light golden. Get aside the marination and add only leg with the fried onion. Fry each side 10 minutes and add marination, nut paste, milk and cook it on low heat under closed lid about 30 minutes. Add rest of ingredients (cardamom, cinnamon, mace, nutmeg, lemon juice, sugar and green chilli) and cook 10 more minutes without lid. In this stage you can preheat oven 180̊ C and bake the leg for 10-15 minutes to give nice colour(glaze it). Or keep cooking in pan with caution (don’t burn it). Enjoy Mutton Leg Roast / Masala Raan / Khasir Leg Roast with Parata, Naan or Polau.",
         "rating":4.7,
-        "chef_id":4
+        "chef_id":4,
+        "img": "https://i.ibb.co/NC8Tpkf/rec15.jpg"
+
     },
     { 
         "rid":1604,
@@ -126,7 +153,9 @@
         "ingredients":["2 cups flour", "1 tablespoon yeast", "1 tablespoon oil", "1/2 tablespoon sugar", "Salt to taste", "Lukewarm water", "Flour to roll", "400 gm boneless chicken breast (cut into thin strips)", "2 teaspoon chilli powder", "2 teaspoon black pepper powder", "2 tablespoon lemon juice", "2 tablespoon oil(or less)", "Salt to taste"],
         "cookingMethod":"Add flour, salt and lukewarm water with yeast mixture and knead well to soft and stick dough. Add oil and knead again. Cover it the dough and let it rise in warm place for 1 hour or till it doubles up. Punch down dough. Divide dough in 6-7 balls and roll each ball into flat bread using flour and pan fry it like roti. You bake it too if you want. Fry two types of meat separately with bit of oil till each becomes cooked and slightly charred. You can chop meat after cooking if you want. For sauce add all the ingredients into a blender including the boiled potato and garlic. Blend until completely smooth. Sauce will be sticky and thick. Adjust salt to your taste. If you want you can roast (fry) garlic but raw has better taste and flavour. Cut all salad ingredients into thin slices. Take  a bread and spread some sauce; add salad, meat pieces and bit more sauce; wrap it and secure it with foil or tooth pick.",
         "rating":4.5,
-        "chef_id":4
+        "chef_id":4,
+        "img": "https://i.ibb.co/CQqn9Yt/rec16.jpg"
+
     },
     { 
         "rid":1705,
@@ -134,7 +163,9 @@
         "ingredients":["3 cups of plain flour", "1 teaspoon dry yeast", "1 teaspoon salt", "1 teaspoon sugar", "2 tablespoons yogurt", "Luke warm water", "Dry plain flour for rolling"],
         "cookingMethod":"Mix salt and flour together and mix properly. Put yogurt in this mix and make crumbly dough. Now add the yeast mixture and more lukewarm water to make soft sticky dough. Knead the dough thoroughly and make smooth dough. Cover the dough and let it sits in a warm place for at least 1 hour. Knead the dough 3-4 minutes and divide that into six balls. Take each ball and using dry flour roll flat thick bread. Now brush water over the rolled Naan. Heat the thick bottom pan(tawa) and wait till the pan becomes hot properly. You can place Naan wet side down on the pan(tawa). Cook for 2 minutes and flip it ; cook the other side of naan until brown spots appear on it.",
         "rating":4.3,
-        "chef_id":5
+        "chef_id":5,
+        "img": "https://i.ibb.co/cgzxPgK/rec17.jpg"
+
     },
     { 
         "rid":1805,
@@ -142,7 +173,10 @@
         "ingredients":["1 cup flour", "1/2 teaspoon salt", "2 tablespoons oil", "2 eggs", "3 tablespoons thinly slice onion", "1 tablespoon chopped coriander leaves", "1 tablespoon chopped chillies", "Salt to taste", "Oil for rolling", "Oil for fry"],
         "cookingMethod":"Mix salt water (about 1/3 cup) and add salty water and flour to make soft dough. Add oil and knead well till oil is absorbed by flour and rest for at least 10-15 minutes. Divide the dough into 2 and roll each of them into thin bread using oil (don’t use flour). Break an egg and pour over the bread. With your finger spread egg over the bread and sprinkle onion, chillies, coriander leaves  and salt over it. Now the most important fold it, for first fold make sure it overlaps otherwise egg comes out. Check picture for folding. After fold you will get a square size paratha. Heat the oil, when oil is ready, place it gentle in oil and fry on medium heat. Fry till it becomes golden brown in both sides. Remove from oil and place on paper tissue and repeat the process with other dough. Cut into bit size pieces and serve mughlai paratha hot with cucumber and onion sliced or with your favourite sauce.",
         "rating":5,
-        "chef_id":5
+        "chef_id":5,
+        "img": "https://i.ibb.co/jbvZRhr/rec7.jpg"
+
+
     },
     { 
         "rid":1905,
@@ -150,7 +184,9 @@
         "ingredients":["1.5 cup plain flour", "4 tablespoons ghee/ oil", "3/4 teaspoon salt", "3/4 teaspoon sugar", "1/4 teaspoon black cumin", "lukewarm water", "Oil for deep fry"],
         "cookingMethod":"Sift flour in a bowl and add oil/ghee. Mix it together and crumble it up. Mix water, sugar and salt together and add with flour to make into soft dough. Knead well. Cover the dough with damp paper towel, let the dough rest for at least 15 minutes. Knead the dough and make 15-16 small balls. Using a rolling pin, flatten the balls to a very thin flat bread about 6”-7” wide. Fold into half 2 times consecutively giving it the shape of a quadrant(check the image). Heat oil in pan and nimki. Add the prepared nimki/cracker to oil and fry on low heat. Fry nimki/cracker till it becomes golden brown.",
         "rating":4.9,
-        "chef_id":5
+        "chef_id":5,
+        "img": "https://i.ibb.co/h1gpKQz/rec19.jpg"
+
     },
     { 
         "rid":2005,
@@ -158,7 +194,9 @@
         "ingredients":["1 tbsp roasted cumin powder", "1 tbsp roasted coriander powder", "1/2 tbsp. crushed dry roast chilli", "1/2 ts black salt (bit lobon)", "1 ts mint leaf chopped", "2 ts tamarind chutney or to taste", "3 cup yogurt(tok doi)", "1 cup milk", "Sugar to taste", "Salt to taste"],
         "cookingMethod":"Soak lentil 5-6 hours or overnight and blend it into a smooth paste (use as less water possible). Beat this paste with little water very well until fluffy. You can check the batter to drop into water, well beaten batter will float. If it isn’t floating, you need to beat more. Mix all the ingredients with this batter for fritter and deep fry at medium heat until it becomes golden brown. In a bowl pour cold water and put 1 tea spoon salt in it; soak the fried fritters this chilled salted water. Let them soak for 1-2 hours. Squeeze the extra water from it and place them on a serving dish. For the yogurt gravy mix all ingredients together except mint and ½ ts crushed chilli. Beat it to make smooth. Pour the yogurt mixture over the fritter/ bora and garnish it with mint and crushed chilli. Soak fritter in yogurt at least 2 hours in refrigerator before serving.",
         "rating":3.2,
-        "chef_id":5
+        "chef_id":5,
+        "img": "https://i.ibb.co/xsCVtHs/rec20.jpg"
+
     },
     { 
         "rid":2106,
@@ -166,7 +204,9 @@
         "ingredients":["150 grams chicken breast fillet", "1 corn cob", "1 egg", "5 cup chicken stock", "1/4 teaspoon ginger paste", "1/2 teaspoon black pepper powder", "1/8 teaspoon tasting salt", "1 teaspoon sugar", "1 teaspoon soya sauce", "1 tablespoon vinegar", "Salt to taste"],
         "cookingMethod":"Cut chicken breast into small cube and marinate with ginger, pepper, soya sauce and 1/2 teaspoon salt. Cut corn cob to take the corn. Heat a sauce pan and cook chicken breast pieces till it changes colour. Add corn and cook 2 minutes: add chicken stock(if you are using chicken stock cube, add 5 cup water and when it comes to boiling point then add chicken stock cube). Whisk the egg and add it with soup. When you are adding egg, stir continuously. Add tasting salt and sugar; check the salt.",
         "rating":4.9,
-        "chef_id":6
+        "chef_id":6,
+        "img": "https://i.ibb.co/647TvX4/rec21.jpg"
+
     },
     { 
         "rid":2206,
@@ -174,7 +214,9 @@
         "ingredients":["1 cup plain flour", "1 and 1/2 tablespoon gram flour", "1 teaspoon yeast", "1 tablespoon oil", "1 teaspoon sugar", "1/2 cup of lukewarm water + 3/4 cup", "Saffron imitation", "oil for deep fry", "2 cup sugar", "1 cup water"],
         "cookingMethod":"Dissolve the yeast, sugar in half cup lukewarm water and let it sit for 3 minutes. When you see air bubble in this mixture, add the flour, gram flour, saffron imitation and oil together. You need to add bit more than half cup water to make the batter right consistency. The batter will be thick. Mix it properly and make it smooth. Let it set in a warm place for at least half hour. Heat the sauce pan with water and sugar. Let the sugar melt and syrup is ready turn off the heat. The syrup needs to be little bit cool down. Heat the frying pan on medium high and pour the oil the pan. You can check the oil to drop little bit of batter in the oil, it should come up right away. Fill the batter in the empty ketchup bottle and Squeeze it out in the hot oil. Its shape will be about 2 ‘’ of 2 and ½ circles (first 1 big on then inside the big one another one and connect them with straight line middle). Fry them until golden- brown on both sides. Take out from oil and now deep into the syrup. Let them soak in the syrup 2-3 minutes and take it out.",
         "rating":4.1,
-        "chef_id":6
+        "chef_id":6,
+        "img": "https://i.ibb.co/7gvhz9s/rec22.jpg"
+
     },
     { 
         "rid":2306,
@@ -182,7 +224,9 @@
         "ingredients":["5-6  Taki fish", "1/6 teaspoon turmeric powder", "2 teaspoons Chopped garlic", "4 tablespoons Chopped onion", "5-6 Chopped green chilli or to taste", "1 tablespoon Chopped coriander leaves", "Salt to taste", "2 tablespoons oil"],
         "cookingMethod":"Clean the fish properly, and cut out the heads and tails from the body. Add salt and turmeric with fish and keep aside. Heat oil and fry onion and garlic till it becomes light golden. Remove fried onion and garlic from oil. In same oil fry fish oil medium heat under closed lid. Once the fish is cooked, let it cools down. Remove all the bones and mash or grind the fish and the rest of ingredients thoroughly. If you are grinding, add chilli and coriander leaves afterwards. Serve Taki Macher Bhorta with plain rice.",
         "rating":3.2,
-        "chef_id":6
+        "chef_id":6,
+        "img": "https://i.ibb.co/Fh55M6C/rec5.jpg"
+
     },
     { 
         "rid":2406,
@@ -190,7 +234,9 @@
         "ingredients":["500 grams boneless, fatless Beef", "1/2 cup yellow split pea", "2 Eggs", "2 teaspoon Ginger chopped", "2-3 clove Garlic", "6-8 pepper corn", "2-3 cloves", "1-2 tablespoon mint leaves (Chopped) (optional)", "Salt to your taste", "Oil for deep fry"],
         "cookingMethod":"Soak yellow split pea (chana /boter dal) in water for 4-5 hours or overnight. Cut into small pieces, clean and wash beef and chana dal. In a heavy bottom pan put beef, chana dal, ginger, garlic, bay leaf, cinnamon, pepper corn, clove, cardamom, salt and water. Cook until the chana dal and meat become well cooked and the water is completely dried up. You can use pressure cooker too for this. Fry onion in oil till it becomes light golden brown. Remove fried onion from oil. Grind all ingredients together except breadcrumbs and eggs to make smoothe paste. Put the paste in a mixing bowl. Add eggs and bread crumbs (for egg add little at a time, because we don’t want too soft dough which will hard to shape) and mix well. Make small round flattened balls from the mixture. You can even freeze kababs after giving the shape.",
         "rating":4,
-        "chef_id":6
+        "chef_id":6,
+        "img": "https://i.ibb.co/mvJxQ4s/rec6.jpg"
+
     },
     { 
         "rid":2507,
@@ -198,7 +244,9 @@
         "ingredients":["Boneless beef half kg", "Onion paste 1 table spoon", "Chili powder 1 teaspoon or to taste", "Ginger paste half table spoon", "Garlic paste half table spoon", "Lemon juice 1 teaspoon", "Roasted cumin powder half teaspoon", "Black pepper crushed half teaspoon", "Greek yogurt 2 table spoons", "Saffron imitation", "Garam masala powder 1 teaspoon", "Green pawpaw with skin 2 teaspoons"],
         "cookingMethod":"Cut meat 1 inch thick slice, wash and drain water. Now using meat tenderizer hammer flatten the meat into thin slice(Quarter inch thick). Marinate meat with all ingredients except oil and keep it aside for at least 3 hours. After 3 hours add 2 tablespoon oil in meat and mix well. Then heat non stick pan or grill pan and when pan is ready, fry chop on medium heat. When one side is done, turn it and brush oil. When both sides are done, brush oil and remove from pan.",
         "rating":4.6,
-        "chef_id":7
+        "chef_id":7,
+        "img": "https://i.ibb.co/jbvZRhr/rec7.jpg"
+
     },
     { 
         "rid":2607,
@@ -207,7 +255,9 @@
         "1/2 tbsp papaya paste", "1/2 tsp chilli powder", "1/2 tsp turmeric powder", "1/2 tsp coriander powder", "1/2 tsp nutmeg powder", "1/2 tsp mace powder", "1/2 tsp cardamom powder", "1/2 tsp cinnamon powder"],
         "cookingMethod":"After washing the leg of goat, use a sharp knife, make slits all over the leg to help the marinade seep into the meat and flavor it properly. This also helps get the meat to tenderize faster. Rinse well and pat dry. Marinate it with papaya paste, ginger paste, garlic paste, chilli powder, turmeric, coriander powder and 1 teaspoon salt for at least 2 hours to overnight or up to 24 hours in refrigerator. Heat the oil in a wide pan where leg could fit easily and fry onion till it starts to become light golden. Get aside the marination and add only leg with the fried onion. Fry each side 10 minutes and add marination, nut paste, milk and cook it on low heat under closed lid about 30 minutes. Add rest of ingredients (cardamom, cinnamon, mace, nutmeg, lemon juice, sugar and green chilli) and cook 10 more minutes without lid. In this stage you can preheat oven 180̊ C and bake the leg for 10-15 minutes to give nice colour(glaze it). Or keep cooking in pan with caution",
         "rating":3.9,
-        "chef_id":7
+        "chef_id":7,
+        "img": "https://i.ibb.co/pXtSwg7/rec8.jpg"
+
     },
     { 
         "rid":2707,
@@ -215,7 +265,9 @@
         "ingredients":["400 grams mince meat", "6-8 tomatoes", "cardamom pods", "2 tbsp breadcrumbs", "1 tsp sugar", "1 and 1/2 cup sliced onion", "1 teaspoon mustard paste", "2/3 cup oil", "Salt"],
         "cookingMethod":"Use a sharp knife to slice the top off each tomato. Use a teaspoon to scoop out seeds and flesh and set aside. Mix mince, chopped onion, chopped green chilli, ½ tsp ginger paste, coriander leaf, bread crumbs and ½ tsp salt together; stuff each tomato and make kofta(meat ball) with rest mince mixture. Heat the oil and add bay leaf, cardamom, cinnamon stick. After a minute add onion paste and sauté 2 minutes. Add ginger, garlic, chilli powder and salt; cook till oil is separated. Add milk and bring to boiling point. Add sugar and pepper; give a stir and stuffed tomato and meat ball in the gravy. Cook in under closed lid 6-8 minutes or till you get your preferable gravy consistency.",
         "rating":4.2,
-        "chef_id":7
+        "chef_id":7,
+        "img": "https://i.ibb.co/3fwccRS/rec9.jpg"
+
     },
     { 
         "rid":2807,
@@ -223,7 +275,9 @@
         "ingredients":["1 kg chicken", "1 and 1/2 cup sliced onion", "1 teaspoon mustard paste", "2 tomatoes", "black pepper powder", "1 teaspoon Turmeric powder", "2/3 cup oil", "Salt"],
         "cookingMethod":"When you are cutting tomato, remove seed and then dice it. Take a large pan or wok and heat oil:  Then add onion and fry 2-3 minutes until the onions are translucent and browned lightly. Then add coriander powder, cumin, turmeric and let fry for 1 minute. Add chicken pieces with garlic, ginger, black pepper and 1 teaspoon salt; fry for 15 minutes or until chicken becomes half cooked. If needed you can add 1 tablespoon water at a time to keep the sauce from burning/sticking to bottom of pan. Now add chopped tomatoes and cook for five or so minutes. Add mustard paste and capsicum and mix well. We want the sauce thick but not to burn, so if needed add 1 tablespoon water at a time. Stirring occasionally and when chicken is cooked and gravy thick enough, add chopped coriander leaf and sugar. Give a good stir and remove from heat.",
         "rating":5,
-        "chef_id":7
+        "chef_id":7,
+        "img": "https://i.ibb.co/VxPvxqQ/rec10.jpg"
+
     },
     { 
         "rid":2908,
@@ -231,7 +285,9 @@
         "ingredients":["1 cup Pat Shak / Tender Jute Leaf", "1/2 cup Red lentil", "1/2 cup onion (sliced)", "Salt", "1/4 tsp Turmeric powder", "3-4 Green Chilli (chopped)( as per taste)", "Oil for deep frying"],
         "cookingMethod":"Wash and soak red lentil for hour and drain the water. Coarsely grind it. For jute leaves wash it, drain the water (I leave it in a strainer for couple of hour to get rid of any excess water) and chop coarsely. Mix all ingredients together and heat oil in a frying pan. Take a dollop of the mixture and add to the pan. On medium heat fry on both sides till golden brown. Enjoy Pat shaker Bora / Jute Leaf Fritter as a snack or with rice dal.",
         "rating":3.9,
-        "chef_id":8
+        "chef_id":8,
+        "img": "https://i.ibb.co/RjnBHPV/rec11.jpg"
+
     },
     { 
         "rid":3008,
@@ -239,7 +295,9 @@
         "ingredients":["400 grams Jackfruit seeds", "4 cardamom pods", "1/3 cup ghee", "1/2 cup sugar or to taste", "Nuts/dry fruit for garnish"],
         "cookingMethod":"Jackfruit seed has two layers of skin, first one white which easy to peel. After peeling white skin, seeds need to soak in water at least 2 hours before removing brown skin(soaking in water, make easier to remove skin) After removing two layers of skin wash it well and boil it with water. When seeds are cooked properly, remove from and strain water. Now make paste from it without using any water. Heat ghee in a pan and temper cardamom pods. Add sugar and jackfruit seed paste. Stir it about 2-3 minutes or until it forms like dough and starts leaving the pan. Remove from pan and garnish Jackfruit Seeds Fudge / Jackfruit Seeds Halwa / Kathaler Bichir Halua with Nuts/dry fruit.",
         "rating":3,
-        "chef_id":8
+        "chef_id":8,
+        "img": "https://i.ibb.co/sw4JN47/rec12.jpg"
+
     },
     { 
         "rid":3108,
@@ -247,7 +305,9 @@
         "ingredients":["300 grams meat mince(keema) or boneless meat", "1 medium onion", "1 tomato", "2 green chillies", "1/2 teaspoon crusted black pepper", "1 teaspoon  ginger paste", "1 tablespoon chopped fresh coriander leaves/ mint leaves(optional)", "Salt to taste", "3 tablespoon onion paste", "1/2 cup milk or 3 tablespoons coconut milk", "1 teaspoon chilli powder", "1/4 teaspoon turmeric powder", "1/2 teaspoon coriander powder", "1 teaspoon ginger paste", "1 teaspoon garlic paste"],
         "cookingMethod":"If you are using boneless meat, put all kofta ingredients in food processor and mince it. If you are using mince meat , chop rest of ingredients and mix well. Heat the pan with oil and add cinnamon stick, cardamom and bay leaf .after half minute add rest of curry ingredient except milk. Cook it till oil is separated. Add milk and bring it to boiling point; in the meanwhile make kofta (meat ball) and add in gravy. Add water if needed. Cook under closed lid about 1o-12minutes under closed lid or till kofta(meat ball) are cooked. Check the salt and remove from heat. Serve hot Kofta curry /spicy meat ball curry with rice or polau.",
         "rating":5,
-        "chef_id":8
+        "chef_id":8,
+        "img": "https://i.ibb.co/Kj0gjYD/rec14.jpg"
+
     },
     { 
         "rid":3208,
@@ -255,6 +315,7 @@
         "ingredients":["2 cups flour", "1 tablespoon yeast", "1 tablespoon oil", "1/2 tablespoon sugar", "Salt to taste", "Lukewarm water", "Flour to roll", "400 gm boneless chicken breast (cut into thin strips)", "2 teaspoon chilli powder", "2 teaspoon black pepper powder", "2 tablespoon lemon juice", "2 tablespoon oil(or less)", "Salt to taste"],
         "cookingMethod":"Add flour, salt and lukewarm water with yeast mixture and knead well to soft and stick dough. Add oil and knead again. Cover it the dough and let it rise in warm place for 1 hour or till it doubles up. Punch down dough. Divide dough in 6-7 balls and roll each ball into flat bread using flour and pan fry it like roti. You bake it too if you want. Fry two types of meat separately with bit of oil till each becomes cooked and slightly charred. You can chop meat after cooking if you want. For sauce add all the ingredients into a blender including the boiled potato and garlic. Blend until completely smooth. Sauce will be sticky and thick. Adjust salt to your taste. If you want you can roast (fry) garlic but raw has better taste and flavour. Cut all salad ingredients into thin slices. Take  a bread and spread some sauce; add salad, meat pieces and bit more sauce; wrap it and secure it with foil or tooth pick.",
         "rating":4.5,
-        "chef_id":8
+        "chef_id":8,
+        "img": "https://i.ibb.co/cgzxPgK/rec17.jpg"
     }
 ]
